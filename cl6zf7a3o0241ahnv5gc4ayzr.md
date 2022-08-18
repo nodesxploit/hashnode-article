@@ -16,22 +16,29 @@ Aleo Testnet 3 will consist of three phases:
 
 **Phase 1 (August 2022): Web3 Developers Start Deploying and Executing on Aleo**
 
-    Anyone can run a snarkOS client node to participate on the Aleo network.
-    Developers can build and deploy applications on Aleo.
-    Developers will earn token rewards for deploying and executing Aleo programs.
+- Anyone can run a snarkOS client node to participate on the Aleo network.
+
+- Developers can build and deploy applications on Aleo.
+
+- Developers will earn token rewards for deploying and executing Aleo programs.
 
 **Phase 2 (September 2022): Provers Earn Coinbase Rewards on Aleo**
-
-    Anyone can run a snarkOS prover node to solve coinbase puzzles.
-    Provers will earn coinbase rewards for confirmed coinbase proofs.
-    Launch of bug bounties for filing and fixing bugs in snarkOS and snarkVM.
-    The most successful provers will earn sufficient rewards to become validators.
+   
+- Anyone can run a snarkOS prover node to solve coinbase puzzles.
+ 
+- Provers will earn coinbase rewards for confirmed coinbase proofs.
+    
+- Launch of bug bounties for filing and fixing bugs in snarkOS and snarkVM.
+    
+- The most successful provers will earn sufficient rewards to become validators.
 
 **Phase 3 (October 2022): Validators Begin Staking on Aleo**
-
-    Launch of AleoBFT, a novel Proof of Stake consensus mechanism.
-    Participants with 1 million credits or more can stake to become validators.
-    Testnet users will be able to delegate their stake to earn staking rewards.
+ 
+- Launch of AleoBFT, a novel Proof of Stake consensus mechanism.
+    
+- Participants with 1 million credits or more can stake to become validators.
+    
+- Testnet users will be able to delegate their stake to earn staking rewards.
 
 **About Aleo**
 
