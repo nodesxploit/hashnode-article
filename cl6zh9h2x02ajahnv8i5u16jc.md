@@ -1,4 +1,4 @@
-## Seinami Network - Incentivized Testnet 2022
+## Seinami Network - Incentivized Testnet
 
 After months of building, Sei Network is almost ready for its maiden voyage, our public launch. But before we set sail, we want to ensure that every last line of code is in shipshape, so we’re launching the Seinami Incentivized Testnet.
 
