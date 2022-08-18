@@ -1,4 +1,4 @@
-## Stride - Multichain Liquid Staking (Bahasa Indonesia 🇮🇩)
+## Stride - Multichain Liquid Staking & Setup Validator (Bahasa Indonesia 🇮🇩)
 
 **Melansir dari Team Stride :**
 
