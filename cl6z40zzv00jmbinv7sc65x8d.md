@@ -1,6 +1,6 @@
 ## Stride - Multichain Liquid Staking (Bahasa Indonesia 🇮🇩)
 
-## 1. Apa itu Stride?
+## Apa itu Stride?
 
 **Stride** adalah blockchain *("zona")* yang menyediakan likuiditas untuk aset yang akan anda stake. Dengan menggunakan **Stride**, anda dapat memperoleh pengembalian staking dan *DeFi* di ekosistem Cosmos melalui Jaringan *Interchain IBC* yang tentunya sangat aman!
 
