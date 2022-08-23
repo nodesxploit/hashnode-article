@@ -38,7 +38,7 @@ Download snapshot klaytn
 mkdir -p ~/node/full/klaytn/
 wget https://s3.ap-northeast-2.amazonaws.com/klaytn-chaindata/cypress/klaytn-cypress-chaindata-20220823010812.tar.gz
 ``` 
-Setelah download selesai, lakukan ekstrak dokumen di folder `**/node/full/klaytn/**`
+Setelah download selesai, lakukan ekstrak dokumen di folder **`/node/full/klaytn/`**
 > Untuk mempercepat proses unzipping gunakan tools **`pigz`**  dan untuk monitoring proses unzip bisa menggunakan **`pv`**
 
 ```
