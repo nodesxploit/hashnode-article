@@ -31,7 +31,8 @@ mv ken-linux-amd64/bin/ken /usr/local/bin/ken
 rm -rf ken-linux-amd64 ken-$version-0-linux-amd64.tar.gz
 ken version
 ``` 
-Download snapshot klaytn, proses ini bisa memakan waktu yang lama (5-10 Jam) tergantung dengan kecepatan koneksi  internet VM kalian. 
+Download snapshot klaytn
+> proses ini bisa memakan waktu yang lama (5-10 Jam) tergantung dengan kecepatan koneksi  internet VM kalian. 
 
 ```
 mkdir -p ~/node/full/klaytn/
