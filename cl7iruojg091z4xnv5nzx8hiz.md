@@ -27,6 +27,21 @@ Kami datang ke liquid staking dengan latar belakang yang lengkap di bidang keuan
 Pengalaman kami membuat kami memprioritaskan tiga area berikut untuk memastikan keamanan sambil terus mendorong inovasi:
 
 Menjaga keamanan DeFi tetap menjadi prioritas utama. Selalu. Saat ini kami sedang diaudit oleh Certik dan [Oak Security](https://www.oaksecurity.io/), dua auditor blockchain terkemuka. Kami juga mengambil langkah-langkah inovatif dengan modul tata kelola dan pembatasan tarif kami untuk memastikan dana stakers aman.  (Posting blog terperinci segera hadir!)
+
 Menjadikan stTokens sebagai aset dasar Cosmos DeFi, dengan integrasi satu klik ke pasar uang, DEX, dan produk Cosmos DeFi lainnya yang sudah ada - kami akan memiliki fitur yang sepenuhnya baru setelah peluncuran. Kami ingin menggunakan liquid staking untuk meningkatkan Cosmos DeFi.
 Menawarkan pengguna UX Aplikasi yang sangat sederhana dan terintegrasi secara vertikal. Pada akhir tahun, kami bertujuan untuk menawarkan liquid staking untuk 15 aset Cosmos L1, semuanya dalam Stride. Cosmos memiliki beberapa teknologi paling inovatif di semua kripto, kami ingin memastikan bahwa Cosmos juga memiliki UX terdepan di industri.
-Kami telah bermitra dengan beberapa validator dan investor teratas yang aktif dalam ekosistem Cosmos, termasuk [Imperator](https://imperator.co/), [Everstake](https://everstake.one/), [Staking Facilities](https://stakingfacilities.com/), [North Island Ventures](https://www.northisland.ventures/), [Distributed Global](https://distributedglobal.com/), [1Confirmation](https://www.1confirmation.com/about), Pantera Capital, dan banyak lainnya untuk membangun Stride yang selaras dengan etos Cosmos.
+
+Kami telah bermitra dengan beberapa validator dan investor teratas yang aktif dalam ekosistem Cosmos, termasuk [Imperator](https://imperator.co/), [Everstake](https://everstake.one/), [Staking Facilities](https://stakingfacilities.com/), [North Island Ventures](https://www.northisland.ventures/), [Distributed Global](https://distributedglobal.com/), [1Confirmation](https://www.1confirmation.com/about), [Pantera Capital](https://panteracapital.com/), dan banyak lainnya untuk membangun Stride yang selaras dengan etos Cosmos.
+
+### Peta Jalan
+
+Kami bergerak cepat, dan sangat bersemangat untuk segera menghadirkan testnet publik kami kepada Anda!
+
+- Peluncuran Testnet Publik: 27/6 hingga peluncuran mainnet.
+- Peluncuran Mainnet: paruh pertama bulan Agustus
+
+### Komunitas
+
+Kami memiliki banyak pengumuman menarik yang akan datang, jadi pastikan untuk [mengikuti kami](https://twitter.com/stride_zone) dan [bergabung dengan komunitas](https://discord.gg/GnKmheRDPV)!
+
+[Discord](https://discord.gg/GnKmheRDPV) | [Twitter](https://twitter.com/stride_zone) | [Testnet](https://www.stride.zone/blog/poolparty-testnet)
