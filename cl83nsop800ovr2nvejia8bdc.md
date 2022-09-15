@@ -1,4 +1,4 @@
-## Massbit - Multi-chain Indexing & Decentralized APIs for DeFi and Web3 apps (Bahasa Indonesia) 🚀🚀
+## Massbit - Multichain Indexing & Decentralized APIs for DeFi and Web3 apps (Bahasa Indonesia) 🔥
 
 Massbit, mungkin terdengar asing di telinga kalian, apa sih massbit itu? dan project apa yang di tawarkan oleh massbit? dan apa kelebihannya dibandingkan dengan project yang lain?
 
