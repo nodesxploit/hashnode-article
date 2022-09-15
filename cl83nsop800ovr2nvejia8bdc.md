@@ -1,4 +1,4 @@
-## Massbit - Multi-chain Indexing & Decentralized APIs for DeFi and Web3 apps (Bahasa Indonesia)
+## Massbit - Multi-chain Indexing & Decentralized APIs for DeFi and Web3 apps (Bahasa Indonesia) 🚀🚀
 
 Massbit, mungkin terdengar asing di telinga kalian, apa sih massbit itu? dan project apa yang di tawarkan oleh massbit? dan apa kelebihannya dibandingkan dengan project yang lain?
 
@@ -129,9 +129,6 @@ Testnet memungkinkan para pengembang yang ingin menguji fungsionalitas, fitur ap
 
 **Sekilas mengenai Massbit Route Testnet II**
 
-
-![massbit-route.jpg](Uploading...)
-
 Dikutip dari dokumen official MassBit Route Testnet Fase II: Tujuan utamanya adalah untuk memperkenalkan fungsionalitas inti dari produk MassBit Route kepada masyarakat. Pada fase ini, siapa pun akan dapat membuat node, dan proses otomatis akan memilih node di setiap zona untuk memungkinkan node untuk di-stake dan mendapatkan hadiah token di IDO. Node dan gateway yang dipertaruhkan menjadi bagian dari jaringan MassBit dan melayani permintaan dApi selama periode TestNet.
 
 Apa yang baru dibandingkan dengan MBR Fase I?
@@ -207,6 +204,7 @@ Saya kira cukup segini, nanti akan dilanjut dilain waktu, semoga penjelasan yang
 
 
 **Penutup**
+
 Terimakasih kepada seluruh jajaran tim Massbit ❤️ yang sudah mengadakan kontes kali ini, mohon maaf jika ada kesalahan kata atau sumber referesni, terimakasih juga kepada seluruh komunitas Massbit yang sangat baik, Terimakasih ❤️
 
 
